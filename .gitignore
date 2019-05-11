@@ -1,0 +1,19 @@
+# Data files
+*.m
+*.mat
+*.txt
+
+__pycache__
+
+codes
+Figures
+Reading
+Report
+results
+
+#Codes
+airfoil2E.py
+airfoilNS.py
+frequency.py
+incompNS.py
+indeptest.py
